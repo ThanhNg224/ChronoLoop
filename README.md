@@ -9,3 +9,4 @@ Record their movements and actions in real time, such as running, jumping, or an
 Replay their recordings during crucial moments to create an echo of their past actions, effectively working alongside their "past self" to complete challenges.
 This mechanic transforms traditional platformer gameplay into a strategic puzzle-solving experience. Players must think creatively, plan their moves carefully, and utilize both their current and recorded actions to progress.
 Let's playyy!!
+🧠💀 Built with love, bugs, and way too much Red Bull by me and Trung Nigga a.k.a Vu Minh Trung — shoutout to the real MVPs who kept the physics engine from exploding. 💥👾
